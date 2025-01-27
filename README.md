@@ -1,7 +1,7 @@
 <h1 align="center">RISC Processor Design and Implementation </h1>
 
-<h5 align="center">Design and Implementation of 32-bit RISC processor using Logisim. </h5>
-<h5 align="center">Computer Organisation And Architecture | MiniProject | IIT BBS Autumn 2021 </h5>
+<h5 align="center">Design and Implementation of 32-bit RISC processor</h5>
+<h5 align="center">Computer Organisation And Architecture | MiniProject </h5>
 <img src="https://user-images.githubusercontent.com/59964272/171685712-6a789fce-a1d4-4808-88a1-626dd4bb29d1.gif">
 This RISC proceessor can execute assembly programs (can be generated using this table) for the supported operations.
 
